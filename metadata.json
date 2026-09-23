@@ -1,0 +1,6 @@
+{
+  "name": "TRAVELAI - Autonomous Travel Copilot",
+  "description": "Autonomous travel orchestration platform tailored for global nomads and luxury explorers worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
